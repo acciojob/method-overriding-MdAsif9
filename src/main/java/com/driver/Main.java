@@ -15,8 +15,8 @@ public class Main {
     public static void main(String args[]){
       B obj=new B();
 
-        ans.meth();
+        obj.meth();
         B obj1 =new B();
-        ans1.meth();
+        obj1.meth();
   }
 }
