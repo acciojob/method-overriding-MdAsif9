@@ -5,3 +5,4 @@ class B extends A{
          return "Method is overridden in Extendend class B";
     }
 }
+
